@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BirdsEyeView_part2." parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+    </style>
+</resources>

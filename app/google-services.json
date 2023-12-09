@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230845363257",
+    "project_id": "birdseyeview-part2",
+    "storage_bucket": "birdseyeview-part2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230845363257:android:f44fc57e7b1b2343ff89e8",
+        "android_client_info": {
+          "package_name": "com.example.birdseyeview_part2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwh8ORgek0HUNBmAfZlRrWCHeL3YzZzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

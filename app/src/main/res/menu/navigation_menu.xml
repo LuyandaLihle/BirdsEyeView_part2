@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText"
+    android:background="@drawable/background">
+
+    <item
+        android:id="@+id/nav_map"
+        android:title="Map"
+        android:icon="@drawable/baseline_map_24"/>
+
+    <item
+        android:id="@+id/nav_sightings"
+        android:title="Sight"
+        android:icon="@drawable/baseline_local_see"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/baseline_settings"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/baseline_logout"/>
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BirdsEyeView_part2</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <!-- Shared Preference Keys -->
+    <string name="default_pref_key">default_preferences</string>
+    <string name="saved_lat_key">pref_lat</string>
+    <string name="saved_lng_key">pref_lng</string>
+    <string name="saved_dist_key">pref_dist</string>
+    <string name="saved_username_key">pref_username</string>
+    <string name="play_sound">Play sound</string>
+    <string name="go_bird">go bird</string>
+    <string name="go_bird_sound">go bird sound</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="title_activity_sign_up2">SignUpActivity2</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+</resources>
